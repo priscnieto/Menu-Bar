@@ -1,6 +1,5 @@
 <html> 
   <head>
-  	 <link href="stylesheet.css" rel="stylesheet" type="text/css" />
   	  <title>Menu Bar</title>
   	  <style>
   	  #navbar{
